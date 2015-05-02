@@ -1,2 +1,2 @@
-# on_the_buses
+# On The Buses
 Simple BDD of a bus depot
